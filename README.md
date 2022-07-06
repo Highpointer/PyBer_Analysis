@@ -16,6 +16,9 @@ There were a total of 2,973 drivers, categorized by cities as follows:
 
 It is apparent that with more drivers than total rides, many drivers did not make a single drive, particularly in the urban cities, where the driver count (2,405) exceeded the number of rides (1,625) by 48%.
 
+![LinkedImage](Resources/RideTable.png)
+
+
 ![LinkedImage](Resources/TotalFareByCityType.png)
 
 Summary: Based on the results, provide three business recommendations to the CEO for addressing any disparities among the city types.
