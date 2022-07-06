@@ -18,6 +18,12 @@ While there were considerably fewer drivers and rides in the rural citeis, this 
 
 In the more densely-populated urban cities, there are more people and distances to travel would be less, resulting in lower average fares. With more potential rides available, this would attract more drivers. However, due to the intense competition, many drivers would not be able to find rides and many drivers likely quit because they are earning little or no money.
 
+This line graph shows the total weekly fare per week by city type over the first four months (Jan.-Apr.) of 2019:
+
+![LinkedImage](Resources/TotalFareByCityType.png)
+
+For all city types, the graph was relatively flat over the four-month period, although there are some spikes where the total fare increased modestly for one week, then went back down to its previous level. Likely, this could be due to a special event occurring in the region during that week that increased traffic. This particularly was noticeable in late February when urban and suburban fares reached their highest totals, and the rural total fell just short of its high value over the period that was recorded in early April.
+
 # Summary 
 
 Based on the results, provide three business recommendations to the CEO for addressing any disparities among the city types.
