@@ -14,7 +14,7 @@ In the 120 cities, there were a total of 2,375 rides and 2,973 drivers. The tabl
 
 It is apparent that with more drivers than total rides, many drivers did not take a single ride, particularly in the urban cities, where the driver count (2,405) exceeded the number of rides (1,625) by 48%.
 
-While there were considerably fewer drivers and rides in the rural citeis, this is not a surprising result. Rural cities have smaller populations, yet farther distances to travel, so the average fare per ride would be greater. Surburban cities have more people than rural cities, yet a lower population density than urban cities, so average fares per ride and average fare per driver will fall in between the rural and urban cities.
+While there were considerably fewer drivers and rides in the rural cities, this is not a surprising result. Rural cities have smaller populations, yet farther distances to travel, so the average fare per ride would be greater. Surburban cities have more people than rural cities, yet a lower population density than urban cities, so average fares per ride and average fare per driver will fall in between the rural and urban cities.
 
 In the more densely-populated urban cities, there are more people and distances to travel would be less, resulting in lower average fares. With more potential rides available, this would attract more drivers. However, due to the intense competition, many drivers would not be able to find rides and many drivers likely quit because they are earning little or no money.
 
@@ -27,3 +27,7 @@ For all city types, the graph was relatively flat over the four-month period, al
 # Summary 
 
 Based on the results, provide three business recommendations to the CEO for addressing any disparities among the city types.
+
+* It is apparent from the data there are many drivers who are not taking a single ride, particularly in the urban cities. Thus, we should find ways to help drivers find more passengers so they can earn more money and are more likely to retain their driving services in the long run. Drivers who can't find riders and who can't earn money will likely become discouraged and will quit, so we should seek to reduce the number of discouraged and resigning drivers.
+
+* We could study the potential of of increasing driving revenue from rural cities. While most people in urban cities are familiar with ride-sharing services and a high percentage of urban residents have used ride-sharing services at one time or another, such services are not as familiar nor as widely used among rural residents. We can thus seek ways to improve ride-sharing services in rural areas, where average fare per ride and average 
