@@ -6,18 +6,13 @@ The purpose of this study was to analyze rideshare data in 120 cities by city ty
 
 Results: Using images from the summary DataFrame and multiple-line chart, describe the differences in ride-sharing data among the different city types.
 
-In the 120 cities, there were a total of 2,375 rides, categorized by cities as follows:
-
-![LinkedImage](Resources/2375Rides.png)
-
-There were a total of 2,973 drivers, categorized by cities as follows:
-
-![LinkedImage](Resources/2973Drivers.png)
-
-It is apparent that with more drivers than total rides, many drivers did not make a single drive, particularly in the urban cities, where the driver count (2,405) exceeded the number of rides (1,625) by 48%.
+In the 120 cities, there were a total of 2,375 rides and 2,973 drivers. The table below lists lists the total rides and total drivers by city type, along with total fares collected, average fare per ride, and average fare per driver.
 
 ![LinkedImage](Resources/RideTable.png)
 
+It is apparent that with more drivers than total rides, many drivers did not take a single ride, particularly in the urban cities, where the driver count (2,405) exceeded the number of rides (1,625) by 48%.
+
+The table below shows the 
 
 ![LinkedImage](Resources/TotalFareByCityType.png)
 
