@@ -12,7 +12,7 @@ In the 120 cities, there were a total of 2,375 rides, categorized by cities as f
 
 There were a total of 2,973 drivers, categorized by cities as follows:
 
-![LinkedImage](Resources/2973Rides.png)
+![LinkedImage](Resources/2973Drivers.png)
 
 It is apparent that with more drivers than total rides, many drivers did not make a single drive, particularly in the urban cities, where the driver count (2405)
 ![LinkedImage](Resources/TotalFareByCityType.png)
